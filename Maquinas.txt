@@ -1,0 +1,27 @@
+Printer YSP10
+https://global.yamaha-motor.com/business/smt/printer/ysp10/spec/
+Single-phase AC 200 to 230V +/-20V
+
+Conveyor 
+https://www.allpoint.com.br/transportador-de-inspecao-e-conexao.html
+220 VAC / 60Hz / Monofásico 120W
+
+Panasonic pick and place AM100 
+https://na.panasonic.com/us/factory-equipment-solutions/electronics-assembly-manufacturing-technologies/surface-mount-technology-smt/am100-single-beam-single-head-placement
+3-phase AC 200 / 220 V ±10 V, AC 380 / 400 / 420 / 480 V ±20 V 2.0 kVA
+
+Reflow oven Point reflow 12 zonas
+https://www.allpoint.com.br/forno-de-refusao-point-reflow-12-zonas.html
+5 linhas, 3 fases 380V 50/60Hz 68kW
+
+Wave solder tnw33-36ex/et 
+https://www.tamuracorp.com/products/electronic_chemicals/category/fa_systems/w_solder/tnw.html
+AC220V±10% -50/60Hz-3φ 34kVA 95A
+
+AOI
+https://www.vitrox.com/vision-technology-machine-system/optical-inspection-system-aoi-v510i-se-spec.php
+100-120 V, 16A / 200-240V, 8A Single Phase
+
+
+
+
