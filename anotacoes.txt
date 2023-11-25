@@ -1,0 +1,12 @@
+disjuntor motor 
+rele de falta de fase
+fusivel 
+
+QGBT
+Quadro de uma maquina
+iluminação
+
+quadro de carga do escritorio simplificado
+ex.: 50 tomadas de uso geral de quantos watts
+
+quadro de carga industrial completo
